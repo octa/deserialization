@@ -1,3 +1,4 @@
 target/*
 .idea/*
 **/*.iml
+ysoserial.jar
