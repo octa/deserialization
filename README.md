@@ -2,4 +2,4 @@
 
 Learning deserialization vulnerabilities in JVM based languages.
 
-* Apache Commons Collections Gadgets
+* Apache Commons Collections
